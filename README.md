@@ -1,71 +1,29 @@
-# Getting Started with Create React App
+# Éditeur de Markdown en React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ce projet est un éditeur de Markdown construit en utilisant React. L'éditeur permet aux utilisateurs de rédiger du texte en Markdown et de visualiser instantanément la mise en forme en direct.
 
-## Available Scripts
+## Fonctionnalités Principales
 
-In the project directory, you can run:
+- **Édition en Temps Réel :** L'éditeur de Markdown offre une interface de saisie qui met en évidence la syntaxe Markdown pendant que vous tapez, ce qui permet de voir immédiatement le résultat final.
 
-### `npm start`
+- **Aperçu Instantané :** À mesure que vous saisissez votre texte en Markdown, l'aperçu en direct affiche comment le contenu sera rendu une fois converti en HTML.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Captures d'Écran
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Capture d'écran de l'éditeur de Markdown](screenshot.png)
 
-### `npm test`
+## Dépendances
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Le projet utilise les dépendances suivantes :
 
-### `npm run build`
+- [React](https://reactjs.org/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Mise en Route
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clonez ce dépôt sur votre machine locale.
+2. Installez les dépendances en utilisant la commande `yarn ou yarn install`.
+3. Lancez l'application avec `yarn start`.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# markdown-app
+Ce projet est un clone utilisant React et est une démonstration d'une application d'éditeur de Markdown interactif. Pour toute question ou commentaire, n'hésitez pas à me contacter.
