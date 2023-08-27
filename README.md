@@ -10,7 +10,7 @@ Ce projet est un éditeur de Markdown construit en utilisant React. L'éditeur p
 
 ## Captures d'Écran
 
-![Capture d'écran de l'éditeur de Markdown](screenshot.png)
+![Capture d'écran de l'éditeur de Markdown](src/assets/screenshot.png)
 
 ## Dépendances
 
